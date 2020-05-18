@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Udp Jitter Test</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="tv_no_results_yet">Run to get results</string>
+    <string name="channel_foreground_name">Foreground channel</string>
+    <string name="channel_foreground_description">Foreground channel</string>
+    <string name="et_addr_hint">IP:port</string>
+    <string name="et_addr_default">192.168.1.45:8044</string>
+
+    <string name="toast_err_wrong_addr">Address has wrong format</string>
+
+    <string name="notification_title">Playing</string>
+    <string name="notification_text">Playing stream audio</string>
+    <string name="notification_ticker">Playing stream audio</string>
+</resources>
